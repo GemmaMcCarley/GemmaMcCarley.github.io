@@ -21,7 +21,7 @@ social:
 #- {icon: 'instagram', link: 'https://instagram.com/paululele'}
 - {icon: 'orcid', link: 'https://orcid.org/0000-0002-0059-4457'}
 - {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Gemma_Mccarley'}
-- {icon: 'googlescholar', link: 'https://scholar.google.com/citations?user=MtE2unYAAAAJ&hl=en'}
+- {icon: 'google scholar', link: 'https://scholar.google.com/citations?user=MtE2unYAAAAJ&hl=en'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/gemma-mccarley-885a05269/'}
 
 contacts:
