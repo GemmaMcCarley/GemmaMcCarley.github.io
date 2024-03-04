@@ -3,6 +3,10 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+Hi, my name is Gemma and I’m currently working on the diachrony of null subjects in Latin American Spanish.
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+Broadly, my research interests fall under sociolinguistics, language contact, the history of English, historical syntax, and corpus linguistics. If you love the intersection of all those things, check out my research group [STARFISH](https://www.ling.uni-konstanz.de/en/walkden/starfish/).
+
+When I'm not researching, I love to travel, cook, knit, and consume as much television as possible.
+
+![alt text](assets/img/starfish.png "STARFISH logo").
