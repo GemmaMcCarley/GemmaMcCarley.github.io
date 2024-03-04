@@ -1,4 +1,4 @@
 ---
-layout: publications
+layout: talks
 title: "Publications"
 ---
