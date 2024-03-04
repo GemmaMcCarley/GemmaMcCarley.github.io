@@ -1,8 +1,9 @@
 - title: 'B.A. with Honors in Linguistics'
-  description: 'magna cum laude, Boston University (2016-2019)'
+  description: 'magna cum laude, Boston University (2016-2019) [I'm an inline-style link](https://www.google.com)'
 
 - title: 'MSc. English Language'
-  description: 'with Distinction, University of Edinburgh (2019-2020)'
+  description: 'with Distinction, University of Edinburgh (2019-2020)' [I'm an inline-style link](https://www.google.com)
   
 - title: 'Ph.D. Linguistics'
   description: 'University of Konstanz (2020-present)'
+  [I'm an inline-style link](https://www.google.com)
