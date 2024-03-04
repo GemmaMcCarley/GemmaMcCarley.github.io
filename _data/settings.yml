@@ -16,10 +16,13 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+#- {icon: 'github', link: 'https://github.com/LeNPaul'}
+#- {icon: 'twitter', link: 'https://twitter.com/paululele'}
+#- {icon: 'instagram', link: 'https://instagram.com/paululele'}
+- {icon: 'orcid', link: 'https://orcid.org/0000-0002-0059-4457'}
+- {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Gemma_Mccarley'}
+- {icon: 'googlescholar', link: 'https://scholar.google.com/citations?user=MtE2unYAAAAJ&hl=en'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/gemma-mccarley-885a05269/'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Gemma McCarley', title: 'PhD Researcher', department: 'Linguistics', institution: 'University of Konstanz', institution_address: 'Universitätsstraße 10, 78464 Konstanz, Germany', phone: '+49 (0)7531 88-3881', email: 'gemma-hunter.mccarley@uni-konstanz.de', office: 'Y113', image: 'assets/img/uni-konstanz.jpg'}
