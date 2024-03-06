@@ -11,4 +11,4 @@ When I'm not researching, I love to travel, cook, knit, and consume as much tele
 
 You can download my full CV [here](cv/CV-2023.pdf).
 
-![alt text](assets/img/starfish.png "STARFISH logo").
+#![alt text](assets/img/starfish.png "STARFISH logo").
