@@ -25,4 +25,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/gemma-mccarley-885a05269/'}
 
 contacts:
-- {name: 'Gemma McCarley', title: 'PhD Researcher', department: 'Linguistics', institution: 'University of Konstanz', institution_address: 'Universitätsstraße 10, 78464 Konstanz, Germany', phone: '+49 (0)7531 88-3881', email: 'gemma-hunter.mccarley@uni-konstanz.de', office: 'Y113', image: 'assets/img/uni-konstanz.jpg'}
+- {name: 'Gemma McCarley', title: 'Postdoctoral Fellow', department: 'Linguistics', institution: 'University of Toronto', institution_address: 'Sidney Smith Hall | 100 St. George St. | Toronto, ON | M5S 3G3', email: 'gemma.mccarley@utoronto.ca', office: '6027B', image: 'assets/img/UoT logo.png'}
