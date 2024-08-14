@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-Hi, my name is Gemma and I’m currently studying the diachrony of null subjects in Latin American Spanish.
+Hi, my name is Gemma and I’m currently working on null subjects in varieties of English and Spanish.
 
 Broadly, my research interests fall under sociolinguistics, language contact, the history of English, historical syntax, and corpus linguistics. If you love the intersection of all those things, check out my research group [STARFISH](https://www.ling.uni-konstanz.de/en/walkden/starfish/).
 
